@@ -849,7 +849,7 @@ main {
 
 .latest-english-container {
     width: 100%;
-    margin-bottom: 2rem;
+    margin-bottom: 0rem 4rem;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -862,7 +862,7 @@ main {
 .latest-english-header p {
     color: #14192c;
     font-size: 1.1rem;
-    font-weight: 700;
+    font-weight: bold;
 }
 
 .latest-english-content {
@@ -870,7 +870,7 @@ main {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    margin-bottom: 0.7rem;
+    margin-bottom: 5rem;
 }
 
 .latest-english-card-container {
