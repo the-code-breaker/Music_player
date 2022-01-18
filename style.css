@@ -923,7 +923,7 @@ footer {
     height: 4rem;
     width: 4rem;
     margin: 1vh;
-    background: url("./images/download.jpg") center no-repeat;
+    background: url("./songs/download.jpg") center no-repeat;
     background-size: contain;
 }
 
